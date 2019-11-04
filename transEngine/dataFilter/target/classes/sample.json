@@ -1,7 +1,31 @@
 {
-  "pageId": null,
-  "userId": null,
-  "minimumAge":"18",
-  "basicMeal":"Fish and Chips",
-  "minimumDiscount":"2%"
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Product",
+    "description": "Default Dont change it",
+    "type": "object",
+    "properties": {
+        "pageId": {
+            "description": "Must be integer value",
+            "type": "integer"
+        },
+		"userId": {
+            "description": "Must be integer value",
+            "type": "integer"
+        },
+		"age": {
+            "description": "Must be integer value",
+            "type": "integer",
+			"minimum": 18
+        },
+        "basicMeal": {
+            "description": "Name of the basicMeal",
+            "type": "string"
+        },
+        "minimumDiscount": {
+            "type": "number",
+            "minimum": 2,
+            "exclusiveMinimum": true
+        }
+    },
+    "required": ["pageId", "userId"]
 }
