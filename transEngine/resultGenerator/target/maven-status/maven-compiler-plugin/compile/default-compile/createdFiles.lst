@@ -1,2 +1,2 @@
 com\erpdata\iam\demo\DemoApplication.class
-com\erpdata\iam\dataAdapter\DataAdapterServices.class
+com\erpdata\iam\resultgenerator\ResultGeneratorServices.class
