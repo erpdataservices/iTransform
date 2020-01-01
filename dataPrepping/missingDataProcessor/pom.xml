@@ -6,12 +6,12 @@
 	<parent>
 		<groupId>com.erpdata.iTransform</groupId>
 		<artifactId>dataPrepping</artifactId>
-		<version>1.0.37-SNAPSHOT</version>
+		<version>1.0.38-SNAPSHOT</version>
 		
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>missingDataProcessor</artifactId>
-	<version>1.0.37-SNAPSHOT</version>
+	<version>1.0.38-SNAPSHOT</version>
 	<name>missingDataProcessor</name>
 	<description>missingDataProcessor</description>
 
