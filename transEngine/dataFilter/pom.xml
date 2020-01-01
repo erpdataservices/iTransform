@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>dataFilter</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.34-SNAPSHOT</version>
 	<name>dataFilter</name>
 	<description>dataFilter</description>
 
