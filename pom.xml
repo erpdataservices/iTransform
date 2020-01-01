@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>iTransform</artifactId>
-	<version>1.SNAPSHOT</version>
+	<version>1.0.37-SNAPSHOT</version>
 	<name>iTransform</name>
 	<description>iTransform</description>
 	<packaging>pom</packaging>
