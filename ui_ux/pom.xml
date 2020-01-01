@@ -6,7 +6,7 @@
 		<groupId>com.erpdata.iTransform</groupId>
 		<artifactId>iTransform</artifactId>
 		<version>1.0-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>ui_ux</artifactId>
