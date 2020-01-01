@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>com.erpdata.iTransform</groupId>
 		<artifactId>iTransform</artifactId>
-		<version>1.0.34-SNAPSHOT</version>
+		<version>1.0.35-SNAPSHOT</version>
 		
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>transEngine</artifactId>
-	<version>1.0.34-SNAPSHOT</version>
+	<version>1.0.35-SNAPSHOT</version>
 	<name>transEngine</name>
 	<description>transEngine</description>
 	<packaging>pom</packaging>
