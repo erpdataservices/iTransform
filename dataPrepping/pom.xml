@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>com.erpdata.iTransform</groupId>
 		<artifactId>iTransform</artifactId>
-		<version>1.0.39-SNAPSHOT</version>
+		<version>1.0.40-SNAPSHOT</version>
 		
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>dataPrepping</artifactId>
-	<version>1.0.39-SNAPSHOT</version>
+	<version>1.0.40-SNAPSHOT</version>
 	<name>dataPrepping</name>
 	<description>dataPrepping</description>
 	<packaging>pom</packaging>
