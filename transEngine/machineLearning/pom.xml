@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>com.erpdata.iTransform</groupId>
 		<artifactId>transEngine</artifactId>
-		<version>1.0.42-SNAPSHOT</version>
+		<version>1.0.43-SNAPSHOT</version>
 		
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>machineLearning</artifactId>
-	<version>1.0.42-SNAPSHOT</version>
+	<version>1.0.43-SNAPSHOT</version>
 	<name>machineLearning</name>
 	<description>machineLearning</description>
 	 
