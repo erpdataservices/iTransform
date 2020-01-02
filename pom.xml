@@ -25,5 +25,19 @@
 		<module>webservices</module>
 		<module>ui_ux</module>
 	</modules>
+	<profiles>
+	  <profile>
+		<id>nexus_test</id>
+		<distributionManagement>
+		  <repository>
+			  <uniqueVersion>false</uniqueVersion>
+			  <id>nexus_test</id>
+			  <url>http://localhost:8081/repository/nexus_test/</url>
+			  <layout>default</layout>
+		  </repository>
+		  
+	   </distributionManagement>
+	  </profile>
+	</profiles>
 
 </project>
