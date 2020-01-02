@@ -5,11 +5,11 @@
 	<parent>
 		<groupId>com.erpdata.iTransform</groupId>
 		<artifactId>dataPrepping</artifactId>
-		<version>1.0.43-SNAPSHOT</version>
+		<version>1.0.44-SNAPSHOT</version>
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>cleanupData</artifactId>
-	<version>1.0.43-SNAPSHOT</version>
+	<version>1.0.44-SNAPSHOT</version>
 	<name>cleanupData</name>
 	<description>cleanupData</description>
 
