@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>com.erpdata.iTransform</groupId>
 		<artifactId>transEngine</artifactId>
-		<version>1.0.40-SNAPSHOT</version>
+		<version>1.0.41-SNAPSHOT</version>
 		
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>applyFeedback</artifactId>
-	<version>1.0.40-SNAPSHOT</version>
+	<version>1.0.41-SNAPSHOT</version>
 	<name>applyFeedback</name>
 	<description>applyFeedback</description>
 	 
