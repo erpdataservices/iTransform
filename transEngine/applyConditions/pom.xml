@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>com.erpdata.iTransform</groupId>
 		<artifactId>transEngine</artifactId>
-		<version>1.0.41-SNAPSHOT</version>
+		<version>1.0.42-SNAPSHOT</version>
 		
 	</parent>
 	<groupId>com.erpdata.iTransform</groupId>
 	<artifactId>applyConditions</artifactId>
-	<version>1.0.41-SNAPSHOT</version>
+	<version>1.0.42-SNAPSHOT</version>
 	<name>applyConditions</name>
 	<description>applyConditions</description>
 	 
